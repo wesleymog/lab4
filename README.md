@@ -1,4 +1,4 @@
-# laboratório 4 de Comp Prog
+# laboratório 4 de Comp Conc
 
 O objetivo deste laboratório era   Projetar e implementar um programa concorrente onde a ordem de execução das threads e controlada no programa.
 
